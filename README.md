@@ -1,6 +1,5 @@
 
 
-< align="left">![that 90's anime aesthetic](https://github.com/AlanoudAlmutairi/Alanoud_Almutairi/assets/127936079/a3a1b476-c3d5-4547-850f-640842a1b77c)(Alanoud_Almutairi)
 
 
 <h1 align="center">Hi 👋, I'm Alanoud Almutairi</h1>
