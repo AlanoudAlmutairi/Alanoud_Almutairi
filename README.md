@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alanoud Almutairi</h1>
-<h3 align="center">An IT student in KAU</h3>
+<h3 align="center"> IT student in KAU</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
